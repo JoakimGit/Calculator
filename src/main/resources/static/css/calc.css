@@ -1,0 +1,72 @@
+/*
+* {
+    font: bold 14px Arial, sans-serif;
+}
+#calculator {
+    width: 480px;
+    height: 355px;
+    padding: 20px 20px;
+    border-radius: 4px;
+    background: #8bceec;
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -240px;
+    margin-left: -240px;
+}
+.top .screen {
+    width: 460px;
+    height: 40px;
+    margin: 10px 10px;
+    border-radius: 4px;
+    background: white;
+
+    font-size: 20px;
+    line-height: 40px;
+    text-align: right;
+}
+.keys span {
+    width: 100px;
+    height: 40px;
+    float: left;
+    margin: 10px 10px;
+    border-radius: 4px;
+    background: white;
+
+    cursor: pointer;
+    line-height: 40px;
+    text-align: center;
+    user-select: none;
+    transition: all 0.2s ease;
+}
+.keys span.long {
+    width: 220px;
+}
+.keys #eval {
+    height: 100px;
+    float: right;
+    line-height: 90px;
+    background: #0e7c02;
+}
+.keys span.operator {
+    background: #f1ff92;
+}
+.keys #delete {
+    background: crimson;
+}
+.keys span:hover {
+    background: #9c89f6;
+    color: white;
+}
+.keys span.operator:hover {
+    background: #f8d318;
+    color: black;
+}
+.keys #eval:hover {
+    background: #135b01;
+    color: white;
+}
+.keys #delete:hover {
+    background: #ae010b;
+}*/
