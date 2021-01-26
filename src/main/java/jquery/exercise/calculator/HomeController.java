@@ -14,6 +14,7 @@ public class HomeController {
 
     @GetMapping("/mycalc")
     public String myhome() {
+        System.out.println("Also going to calculator");
         return "/mycalc";
     }
 }
