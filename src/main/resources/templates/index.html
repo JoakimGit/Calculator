@@ -15,7 +15,7 @@
     <div class="keys">
         <span class="operator">/</span>
         <span class="operator">*</span>
-        <span id="delete" class="long">Del</span>
+        <span id="delete" class="long">Delete</span>
         <span>7</span>
         <span>8</span>
         <span>9</span>
@@ -38,7 +38,7 @@
         $("span").on('click', function(){
             var operators = ["+", "-", "*", "/"];
             var char = $(this).text();
-            if (char === "Del") {
+            if (char === "Delete") {
                 $(".screen").text("");
             }
             else if (char === "=") {
